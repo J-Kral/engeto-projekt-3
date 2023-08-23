@@ -1,3 +1,10 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+author: Josef Král
+email: josef.kralu@seznam.cz
+discord: MrOptiminus#6658
+"""
+
 import sys
 import csv
 from bs4 import BeautifulSoup
